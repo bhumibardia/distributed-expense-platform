@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+backend/venv/
+
+# Secrets and environment variables
+.env
+backend/.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Logs & local uploads
+*.log
+uploads/
